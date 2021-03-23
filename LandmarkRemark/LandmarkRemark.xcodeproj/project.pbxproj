@@ -192,7 +192,6 @@
 		1C268EAB260598BF003BDC60 /* Authentication */ = {
 			isa = PBXGroup;
 			children = (
-				1C268EB7260599F3003BDC60 /* Models */,
 				1C268EB0260599DE003BDC60 /* ViewModels */,
 				1C268EAC260598C5003BDC60 /* Views */,
 			);
@@ -214,13 +213,6 @@
 				1C268F5A26061AD9003BDC60 /* AuthenticationViewModel.swift */,
 			);
 			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		1C268EB7260599F3003BDC60 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		1C268EBB2605A716003BDC60 /* MapRemark */ = {
