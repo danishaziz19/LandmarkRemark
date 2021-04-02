@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'LandmarkRemark' do
+  use_frameworks!
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Analytics'
+  pod 'MBProgressHUD', '~> 1.1.0'
+end
